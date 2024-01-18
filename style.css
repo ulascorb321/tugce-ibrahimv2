@@ -1,0 +1,341 @@
+body {
+    background-image: url(wed.jpg);
+    background-repeat: no-repeat;
+    background-color: #B29434;
+    background-repeat: repeat-x;
+}
+
+#homeimg {
+    height: 500px;
+    width: 500px;
+    border-radius: 50%;
+    opacity: 95%;
+}
+
+.homapageimage {
+    margin-left: 63%;
+    margin-right: 3%;
+    padding-top: 5%;
+}
+
+.header {
+    margin-top: 5%;
+    margin-left: 8%;
+    position: absolute;
+}
+
+#homapagebutton {
+    margin-top: 10%;
+    margin-left: 20%;
+    height: 50px;
+    width: 200px;
+}
+
+#headerh1 {
+    font-size: 150px;
+    font-family: Courier, monospace;
+}
+
+#headerh3 {
+    font-size: 50px;
+    margin-top: 10%;
+    font-family: Courier, monospace;
+}
+
+#celebimage {
+    height: 400px;
+    width: 400px;
+    margin-top: 10%;
+}
+
+.celebdate {
+    margin-top: 20%;
+}
+
+#celebdateh2 {
+    font-size: 70px;
+    font-family: Courier, monospace;
+}
+
+#celebdateh3 {
+    font-size: 40px;
+    margin-top: 5%;
+    font-family: Courier, monospace;
+}
+
+#weddingimage {
+    height: 400px;
+    width: 400px;
+    margin-top: 10%;
+}
+
+.date {
+    margin-top: 20%;
+}
+
+#dateh2 {
+    font-size: 70px;
+    font-family: Courier, monospace;
+}
+
+#dateh3 {
+    font-size: 40px;
+    margin-top: 5%;
+    font-family: Courier, monospace;
+}
+
+.location {
+    margin-top: 20%;
+}
+
+#locationimage {
+    height: 400px;
+    width: 400px;
+    margin-top: 10%;
+}
+
+#locationh2 {
+    font-size: 70px;
+    font-family: Courier, monospace;
+}
+
+#locationh3 {
+    font-size: 40px;
+    margin-top: 5%;
+    font-family: Courier, monospace;
+}
+
+#locationbutton {
+    margin-top: 20%;
+    margin-left: 35%;
+    height: 50px;
+    width: 200px;
+}
+
+#memoryh1 {
+    font-size: 70px;
+    text-align: center;
+    margin-top: 5%;
+    margin-bottom: 3%;
+    font-family: Courier, monospace;
+}
+
+#memoryimg1 {
+    height: 500px;
+    width: 500px;
+    border-radius: 50%;
+    opacity: 95%;
+}
+
+#memoryimg2 {
+    height: 500px;
+    width: 500px;
+    border-radius: 50%;
+    opacity: 95%;
+}
+
+#memoryimg3 {
+    height: 500px;
+    width: 500px;
+    border-radius: 50%;
+    opacity: 95%;
+}
+
+.memorydate {
+    text-align: center;
+    font-size: 30px;
+    margin-top: 3%;
+    font-family: Courier, monospace;
+}
+
+.carh2 {
+    font-size: 70px;
+    margin-top: 10%;
+    font-family: Courier, monospace;
+}
+
+.carh3 {
+    font-size: 40px;
+    margin-top: 5%;
+    font-family: Courier, monospace;
+}
+
+#carimage {
+    height: 400px;
+    width: 400px;
+    margin-top: 10%;
+}
+
+#endh2 {
+    font-size: 50px;
+    font-family: Courier, monospace;
+    margin-top: 5%;
+    text-align: center;
+}
+
+#endh3 {
+    font-size: 40px;
+    font-family: Courier, monospace;
+    margin-top: 3%;
+    text-align: center;
+}
+
+hr {
+    width: 90% !important;
+    margin-left: 5% !important;
+}
+
+@media (max-width:800px) {
+    .header {
+        margin-top: 50%;
+        margin-left: 3%;
+    }
+
+    #headerh1 {
+        margin-top: 20%;
+        font-size: 60px;
+        text-align: center;
+    }
+
+    #headerh3 {
+        font-size: 30px;
+        margin-top: 10%;
+        text-align: center;
+    }
+
+    #homeimg {
+        width: 190px;
+        height: 190px;
+        margin-top: 20%;
+    }
+
+    .homapageimage{
+        margin-left: 30%;
+    }
+
+    #homapagebutton {
+        margin-top: 10%;
+        margin-left: 25%;
+    }
+
+    #celebimage {
+        width: 150px;
+        height: 150px;
+        margin-top: 85%;
+        margin-left: 10%;
+    }
+
+    #celebdateh2 {
+        font-size: 35px;
+        margin-top: 80%;
+        text-align: center;
+    }
+
+    #celebdateh3 {
+        font-size: 20px;
+        margin-left: 5%;
+        text-align: center;
+    }
+
+    #weddingimage {
+        width: 150px;
+        height: 150px;
+        margin-top: 30%;
+        margin-left: 10%;
+    }
+
+    #dateh2 {
+        font-size: 35px;
+       
+        text-align: center;
+    }
+
+    #dateh3 {
+        font-size: 20px;
+        margin-left: 5%;
+        text-align: center;
+    }
+
+    #timerh1 {
+        margin-top: 5%;
+        text-align: center;
+    }
+
+    #locationimage {
+        width: 140px;
+        height: 140px;
+        margin-top: 20%;
+    }
+
+    #locationh2 {
+        font-size: 30px;
+        margin-top: 0%;
+        text-align: center;
+    }
+
+    #locationh3 {
+        font-size: 20px;
+        text-align: center;
+    }
+
+    #locationbutton {
+        margin-left: 0%;
+        float: right;
+    }
+
+    #carimage {
+        width: 150px;
+        height: 150px;
+        margin-top: 20%;
+    }
+
+    .carh2 {
+        font-size: 20px;
+        text-align: center;
+        font-weight: bold;
+    }
+
+    .carh3 {
+        font-size: 20px;
+        text-align: center;
+    }
+
+    #memoryh1{
+        font-size: 50px;
+        text-align: center;
+    }
+
+    #memoryimg1{
+        width: 150px;
+        height: 120px;
+        margin-bottom: 5%;
+    }
+
+    #memoryimg2{
+        width: 150px;
+        height: 120px;
+        margin-bottom: 5%;
+    }
+
+    #memoryimg3{
+        width: 150px;
+        height: 120px;
+        margin-bottom: 5%;
+    }
+
+    .memorydate{
+        font-size: 15px;
+    }
+
+    #endh2{
+        font-size: 40px;
+        text-align: center;
+        margin-top: 5%;
+    }
+
+    #endh3{
+        font-size: 30px;
+        text-align: center;
+    }
+
+}

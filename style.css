@@ -22,8 +22,9 @@ body {
 
 .header {
     margin-top: 5%;
-    margin-left: 8%;
+    /*margin-left: 8%;*/
     position: absolute;
+    width: 100%;
 }
 
 #homapagebutton {
@@ -190,7 +191,7 @@ hr {
 @media (max-width:800px) {
     .header {
         margin-top: 50%;
-        margin-left: 3%;
+        /*margin-left: 3%;*/
     }
 
     #headerh1 {
@@ -212,7 +213,6 @@ hr {
         display: block;
         margin-left: auto;
         margin-right: auto;
-
     }
 
     .homapageimage {
@@ -226,9 +226,8 @@ hr {
 
     #homapagebutton {
         margin-top: 5%;
-        margin-left: 2%;
+        margin-left: 0%;
         margin-right: auto;
-
     }
 
     #celebimage {

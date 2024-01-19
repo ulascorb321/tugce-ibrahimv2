@@ -199,7 +199,7 @@ hr {
 
     #headerh3 {
         font-size: 30px;
-        margin-top: 10%;
+        margin-top: 5%;
         text-align: center;
     }
 
@@ -207,15 +207,26 @@ hr {
         width: 190px;
         height: 190px;
         margin-top: 20%;
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+
     }
 
-    .homapageimage{
-        margin-left: 30%;
+    .homapageimage {
+        margin: auto;
+    }
+
+    .homapagebuttondiv {
+        margin: auto;
+        width: 50%;
     }
 
     #homapagebutton {
-        margin-top: 10%;
-        margin-left: 25%;
+        margin-top: 5%;
+        margin-left: 5%;
+        margin-right: auto;
+
     }
 
     #celebimage {
@@ -246,7 +257,7 @@ hr {
 
     #dateh2 {
         font-size: 35px;
-       
+
         text-align: center;
     }
 
@@ -300,40 +311,40 @@ hr {
         text-align: center;
     }
 
-    #memoryh1{
+    #memoryh1 {
         font-size: 50px;
         text-align: center;
     }
 
-    #memoryimg1{
+    #memoryimg1 {
         width: 150px;
         height: 120px;
         margin-bottom: 5%;
     }
 
-    #memoryimg2{
+    #memoryimg2 {
         width: 150px;
         height: 120px;
         margin-bottom: 5%;
     }
 
-    #memoryimg3{
+    #memoryimg3 {
         width: 150px;
         height: 120px;
         margin-bottom: 5%;
     }
 
-    .memorydate{
+    .memorydate {
         font-size: 15px;
     }
 
-    #endh2{
+    #endh2 {
         font-size: 40px;
         text-align: center;
         margin-top: 5%;
     }
 
-    #endh3{
+    #endh3 {
         font-size: 30px;
         text-align: center;
     }

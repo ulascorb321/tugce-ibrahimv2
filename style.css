@@ -10,12 +10,14 @@ body {
     width: 500px;
     border-radius: 50%;
     opacity: 95%;
+    box-shadow: rgba(0, 0, 0, 0.35) 10px 5px 15px;
 }
 
 .homapageimage {
     margin-left: 63%;
     margin-right: 3%;
     padding-top: 5%;
+
 }
 
 .header {
@@ -224,7 +226,7 @@ hr {
 
     #homapagebutton {
         margin-top: 5%;
-        margin-left: 5%;
+        margin-left: 2%;
         margin-right: auto;
 
     }

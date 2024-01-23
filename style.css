@@ -17,14 +17,12 @@ body {
     margin-left: 63%;
     margin-right: 3%;
     padding-top: 5%;
-
 }
 
 .header {
     margin-top: 5%;
-    /*margin-left: 8%;*/
+    margin-left: 8%;
     position: absolute;
-    width: 100%;
 }
 
 #homapagebutton {
@@ -191,7 +189,8 @@ hr {
 @media (max-width:800px) {
     .header {
         margin-top: 50%;
-        /*margin-left: 3%;*/
+        margin-left: 0%;
+        width: 100%;
     }
 
     #headerh1 {
